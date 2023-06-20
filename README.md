@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @paulgrehan
-- ⚡Helping members @ https://identity.foundation ⚡
-- 📫 How to reach me - drop by our community 
+- ⚡working on verifiable proofs ⚡
